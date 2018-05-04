@@ -1,0 +1,7 @@
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="btn_margin_vertical">30dp</dimen>
+    <dimen name="btn_margin_horizontal">10dp</dimen>
+    <dimen name="textsize_welcome_title">24sp</dimen>
+</resources>
